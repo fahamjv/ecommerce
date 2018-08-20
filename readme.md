@@ -1,6 +1,7 @@
 This need a lot of things to be complete
 
 TODO:
+
    Fix the Seller Dashboard
    Show only products that have the true status
    Seller register page
